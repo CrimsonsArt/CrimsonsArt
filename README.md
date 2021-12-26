@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @CrimsonsArt, I'm 23 and I've just started taking a bachelor in digital culture.
+- 👋 Hi, I’m @CrimsonsArt! Currently taking a BA in digital culture.
 - 👀 I’m interested in any sorts of feedback to help me improve as both a programmer and a creator.
-- 🌱 I’m currently learning to code with Java, through minecraft mods.
+- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 🦄 My ultimate goal is to become a unicorn.
 
 <!---
 CrimsonsArt/CrimsonsArt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
