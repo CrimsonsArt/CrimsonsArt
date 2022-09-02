@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @CrimsonsArt! Currently taking a BA in digital culture.
 - 👀 I’m interested in any sorts of feedback to help me improve as both a programmer and a creator.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 🌱 I’m currently learning HTML, CSS, Javascript and R.
 - 🦄 My ultimate goal is to become a unicorn.
+
+Language progress:
+- HTML : Basics understood.
+- CSS: : Basics understood.
+- JavaScript : Simple basics understood.
 
 <!---
 CrimsonsArt/CrimsonsArt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
