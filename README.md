@@ -2,12 +2,18 @@
 - 👀 I’m interested in any sorts of feedback to help me improve both as a programmer and a creator.
 - 🌱 I’m currently learning HTML, CSS, Javascript and R.
 - 🦄 My ultimate goal is to become a unicorn.
+
+
 <br>
+
 Language learning progress:
 - HTML : Basics understood.
 - CSS: : Basics understood.
 - JavaScript : Simple basics understood.
+
+
 <br>
+
 To-do, learn these in due time:
 - C#
 - Java
