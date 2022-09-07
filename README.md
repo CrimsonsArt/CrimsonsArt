@@ -10,6 +10,7 @@ Language learning progress:
 - HTML : Basics understood.
 - CSS: : Basics understood.
 - JavaScript : Simple basics understood.
+- R : Currently reading up on the basics.
 
 
 <br>
