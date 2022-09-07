@@ -3,10 +3,15 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript and R.
 - 🦄 My ultimate goal is to become a unicorn.
 
-Language progress:
+Language learning progress:
 - HTML : Basics understood.
 - CSS: : Basics understood.
 - JavaScript : Simple basics understood.
+
+To-do, learn these in due time:
+- C#
+- Java
+- SQL
 
 <!---
 CrimsonsArt/CrimsonsArt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
