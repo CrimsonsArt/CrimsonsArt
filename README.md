@@ -3,10 +3,14 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript and R.
 - 🦄 My ultimate goal is to become a unicorn.
 
+
+
 Language learning progress:
 - HTML : Basics understood.
 - CSS: : Basics understood.
 - JavaScript : Simple basics understood.
+
+
 
 To-do, learn these in due time:
 - C#
