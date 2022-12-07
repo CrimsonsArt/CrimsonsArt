@@ -1,4 +1,5 @@
-# 👋 Hi, I’m @CrimsonsArt! Currently taking a Bachelor's degree in Digital Culture.
+# Hi, I’m @CrimsonsArt!
+- 👋 I am currently halfway through taking a Bachelor's degree in Digital Culture.
 - 👀 I’m interested in any sorts of feedback to help me improve both as a programmer and a creator.
 - 🌱 I’m currently learning PHP, MySQL and Javascript.
 - 🐉 Coding is not too unlike magic, your imagination is the limit.
