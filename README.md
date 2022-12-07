@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CrimsonsArt! Currently taking a Bachelor's degree in Digital Culture.
+# 👋 Hi, I’m @CrimsonsArt! Currently taking a Bachelor's degree in Digital Culture.
 - 👀 I’m interested in any sorts of feedback to help me improve both as a programmer and a creator.
 - 🌱 I’m currently learning PHP, MySQL and Javascript.
 - 🐉 Coding is not too unlike magic, your imagination is the limit.
@@ -6,21 +6,21 @@
 
 <br>
 
-I'm getting comfortable with these:
+## I'm getting comfortable with these:
 - HTML
 - CSS
 - Markdown <!-- TODO: Show this through making this file look better. -->
 
 <br>
 
-Currently learning:
+## Currently learning:
 - JavaScript
 - PHP
 - MySQL
 
 <br>
 
-Languages I wish to learn in due time:
+## Languages I wish to learn in due time:
 - C++
 - Java
 - Rust
