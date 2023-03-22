@@ -18,6 +18,7 @@
 - JavaScript
 - PHP
 - MySQL
+- AJAX
 
 <br>
 
