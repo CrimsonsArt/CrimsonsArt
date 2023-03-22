@@ -19,7 +19,7 @@ I am currently halfway through taking a Bachelor's degree in Digital Culture.
 
 <br>
 
-## Languages I plan to learn in due time:
+## Languages to learn:
 - C++
 - Java
 - Rust
