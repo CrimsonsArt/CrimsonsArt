@@ -19,10 +19,11 @@
 - PHP
 - MySQL
 - AJAX
+- Python
 
 <br>
 
-## Languages I wish to learn in due time:
+## Languages I plan to learn in due time:
 - C++
 - Java
 - Rust
